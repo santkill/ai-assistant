@@ -2,6 +2,11 @@
 
 [![Sista AI Social Preview](./assets/sista-ai-voicebot-large.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_social_preview&utm_campaign=react_sdk_readme)
 
+<br/>
+
+[![npm version](https://img.shields.io/npm/v/@sista/ai-assistant-react.svg)](https://www.npmjs.com/package/@sista/ai-assistant-react)
+[![npm downloads](https://img.shields.io/npm/dm/@sista/ai-assistant-react.svg)](https://www.npmjs.com/package/@sista/ai-assistant-react)
+
 # Sista AI: Voice User Interface
 
 Give your app a voice with our plug & play Voice UI. Let users control the interface, ask questions, and get real-time assistance.
