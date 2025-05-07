@@ -13,10 +13,12 @@ _Just add our magic button `<AiAssistantButton />` and start talking with your s
 
 - **Voice UI Agent:** Controls any interface
 - **Conversational AI:** Answers any question
+- **Zero-Code Changes:** Fits any code
+- **Real-Time Responses:** Responds any time
 - **Context-Aware Assistant:** Reads any screen
 - **Multilingual Conversations:** Speaks any language
-- **Real-Time Support:** Responds any time
 - **Powerful Admin Panel:** Customizes any detail
+- **Cross-Platform Compatibility:** Supports any device
 
 
 <a href="https://smart.sista.ai/?utm_source=github_repo&utm_medium=small_logo&utm_campaign=react_sdk_readme">
