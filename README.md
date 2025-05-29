@@ -1,6 +1,6 @@
-[![Sista AI Banner](./assets/sista-banner-one.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_banner&utm_campaign=react_sdk_readme)
+[![Sista AI Banner](https://smart.sista.ai/images/art/sista-ai-banner-1.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_banner&utm_campaign=react_sdk_readme)
 
-[![Sista AI Social Preview](./assets/sista-ai-voicebot-large.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_social_preview&utm_campaign=react_sdk_readme)
+[![Sista AI Social Preview](https://smart.sista.ai/images/art/sista-ai-voicebot-small.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_social_preview&utm_campaign=react_sdk_readme)
 
 <br/>
 
@@ -27,7 +27,7 @@ _Just add our magic button `<AiAssistantButton />` and start talking with your s
 
 
 <a href="https://smart.sista.ai/?utm_source=github_repo&utm_medium=small_logo&utm_campaign=react_sdk_readme">
-    <img src="./assets/sista-icon.png" alt="Sista Logo" width="130"/>
+    <img src="https://smart.sista.ai/images/logo/sista-ai-icon.png" alt="Sista Logo" width="130"/>
 </a>
 
 ## Demo
@@ -49,7 +49,7 @@ _(Integrating AI into your applications is now simpler than ever.)_
 The [Admin Panel](https://admin.sista.ai/applications) is your central place to manage everything.
 Customize your AI agent, control its behavior, track usage, configure access and much more.
 
-[![Sista AI Admin Panel](https://sales.sista.ai/images/sista/sista-admin-dark.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=admin_panel_screenshot&utm_campaign=react_sdk_readme)
+[![Sista AI Admin Panel](https://smart.sista.ai/images/sista/sista-admin-dark.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=admin_panel_screenshot&utm_campaign=react_sdk_readme)
 
 
 > Sista AI: 🤖 Your AI Integration Platform. ❤️
@@ -97,4 +97,4 @@ Join our community on [Discord](https://discord.gg/e2arxq9Js4) to connect with o
 
 <br/>
 
-[![Sista Logo](./assets/sista-logo.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=big_logo&utm_campaign=react_sdk_readme)
+[![Sista Logo](https://smart.sista.ai/images/logo/sista-ai-logo-smart-agents.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=big_logo&utm_campaign=react_sdk_readme)
