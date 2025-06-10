@@ -19,8 +19,9 @@ _Just add our magic button `<AiAssistantButton />` and start talking with your s
 
 - **Voice UI Agent:** Controls any interface
 - **Conversational AI:** Answers any question
-- **Zero-Code Changes:** Fits any code
+- **Workflow Automation**: Completes any task
 - **Real-Time Responses:** Responds any time
+- **Zero-Code Changes:** Fits any code
 - **Context-Aware Assistant:** Reads any screen
 - **Multilingual Conversations:** Speaks any language
 - **Powerful Admin Panel:** Customizes any detail
