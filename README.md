@@ -87,13 +87,13 @@ Our AI technology is supported across all platforms, delivering a unified experi
 
 For issues, raise on Github or contact [support@sista.ai](mailto:support@sista.ai).
 
-Join our community on [Discord](https://discord.gg/e2arxq9Js4) to connect with other users.
+Join our community on [Discord](https://www.sista.ai/support.html) to connect with other users.
 
 <br/>
 <br/>
 
 <p align="center">
- <a href="https://discord.gg/e2arxq9Js4">
+ <a href="https://www.sista.ai/support.html">
     <img src="./assets/button_community.png" alt="Sista AI Community"/>
  </a>
 </p>
