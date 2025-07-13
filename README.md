@@ -10,20 +10,37 @@
 
 # Plug-and-Play AI Agents (with Voice UI)
 
-Turn your app smart with our plug & play AI-powered Voice UI. Let users control the interface, ask questions, and get real-time assistance.
+THe [Sista AI SDK](https://smart.sista.ai/?utm_source=sista_docs&utm_medium=docs_text&utm_campaign=what_is_sista) transforms any website into a real-time, voice-controlled experience. Powered by an advanced conversational AI agent, it lets users talk to your app, trigger UI actions, and get instant up to date responses, all without any code changes! Just add the SDK to your site, and your users can interact with your app using natural voice commands.
 
-**No Code Changes! No Intent Definitions! No Setup Hassle!**
-_Just add our magic button `<AiAssistantButton />` and start talking with your site._
+**No Intent Definitions. No Code Changes. No Setup Headaches.** _Just add our magic button `<AiAssistantButton />` and start talking with your website / app._
+
+
+## What You Get After Installation?
+
+- **Conversational Intelligence**
+  Ask questions, get summaries, and interact with on-screen content through natural language.
+- **Voice UI Control**
+  Automatically control buttons, links, forms, and other elements, no setup or configuration needed.
+- **Custom Function Support**
+  Extend your agent's capabilities by registering your own functions for advanced use cases.
+- **Context-Aware Agent**
+  Understands on-screen content to deliver accurate replies and take smart actions.
+- **Custom Knowledge Base**
+  Upload your unique data so the agent can answer questions with high precision.
+- **Tool Integrations**
+  Connect with external tools and platforms to automate workflows and extend your agent's capabilities.
+- **Workflow Automation**
+  The agent can perform sequences of actions and automate multi-step tasks form a single input.
 
 ## Features at a Glance
 
+- **Zero-Code Changes:** Fits any code
+- **Real-Time Responses:** Responds any time
+- **Multilingual Conversations:** Speaks any language
 - **Voice UI Agent:** Controls any interface
 - **Conversational AI:** Answers any question
 - **Workflow Automation**: Completes any task
-- **Real-Time Responses:** Responds any time
-- **Zero-Code Changes:** Fits any code
 - **Context-Aware Assistant:** Reads any screen
-- **Multilingual Conversations:** Speaks any language
 - **Powerful Admin Panel:** Customizes any detail
 - **Cross-Platform Compatibility:** Supports any device
 
