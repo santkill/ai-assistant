@@ -102,9 +102,14 @@ Our AI technology is supported across all platforms, delivering a unified experi
 
 ## Support
 
-For issues, raise on Github or contact [support@sista.ai](mailto:support@sista.ai).
+For support or to report issues, you can email us directly at [support@sista.ai](mailto:support@sista.ai).
 
-Join our community on [Discord](https://www.sista.ai/support.html) to connect with other users.
+You can also connect with our support team in our [Discord community](https://www.sista.ai/support.html).
+
+## Contact
+
+For general inquiries, please email [contact@sista.ai](mailto:contact@sista.ai).
+
 
 <br/>
 <br/>
