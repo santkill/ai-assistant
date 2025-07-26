@@ -100,6 +100,10 @@ Our AI technology is supported across all platforms, delivering a unified experi
 | [<img src="https://smart.sista.ai/images/integrations/platforms/SHOPIFY.svg" width="100px">](https://www.shopify.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WORDPRESS.svg" width="100px">](https://wordpress.org/) | [<img src="https://smart.sista.ai/images/integrations/platforms/DRUPAL.svg" width="100px">](https://www.drupal.org/) | [<img src="https://smart.sista.ai/images/integrations/platforms/MAGENTO.svg" width="100px">](https://magento.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WOOCOMMERCE.svg" width="100px">](https://woocommerce.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WIX.svg" width="100px">](https://www.wix.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WEELBY.svg" width="100px">](https://www.weebly.com/) |
 | [<img src="https://smart.sista.ai/images/integrations/platforms/JOOMLA.svg" width="100px">](https://www.joomla.org/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WEBFLOW.svg" width="100px">](https://webflow.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/SQUARESPACE.svg" width="100px">](https://www.squarespace.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/ETSY.svg" width="100px">](https://www.etsy.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/MOODLE.svg" width="100px">](https://moodle.org/) | [<img src="https://smart.sista.ai/images/integrations/sdks/UNITY.svg" width="100px">](https://unity.com/) | [<img src="https://smart.sista.ai/images/integrations/sdks/UNREAL-ENGINE.svg" width="100px">](https://www.unrealengine.com/) |
 
+## Universal Website Support
+
+Sista AI works on **any website** regardless of platform or technology. Simply inject our JavaScript tag as an HTML script, and it automatically provides AI assistance on your site. See [Docs]([README-umd.md](https://docs.sista.ai/intro)) for integration details.
+
 ## Support
 
 For support or to report issues, you can email us directly at [support@sista.ai](mailto:support@sista.ai).
