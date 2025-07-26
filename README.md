@@ -102,7 +102,7 @@ Our AI technology is supported across all platforms, delivering a unified experi
 
 ## Universal Website Support
 
-Sista AI works on **any website** regardless of platform or technology. Simply inject our JavaScript tag as an HTML script, and it automatically provides AI assistance on your site. See [Docs]([README-umd.md](https://docs.sista.ai/intro)) for integration details.
+Sista AI works on **any website** regardless of platform or technology. Simply inject our JavaScript tag as an HTML script, and it automatically provides AI assistance on your site. Available via CDN: `https://cdn.sista.ai/sdk/latest/smart-agent.min.js`. Visit the official [Docs](https://docs.sista.ai/intro) for integration details.
 
 ## Support
 
