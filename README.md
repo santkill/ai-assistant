@@ -112,12 +112,16 @@ Need help with Sista AI? We're here to assist you!
 - **💬 Support Team:** Visit our [Support Page](https://www.sista.ai/support.html)
 - **📚 Documentation:** Visit our [comprehensive docs](https://docs.sista.ai)
 - **💬 Join Our Discord Community:**
+
+<br/>
+
 <p align="center">
  <a href="https://www.sista.ai/support.html?to=discord">
     <img src="./assets/button_community.png" alt="Sista AI Community"/>
  </a>
 </p>
 
+<br/>
 
 <br/>
 <br/>
