@@ -15,23 +15,6 @@ THe [Sista AI SDK](https://smart.sista.ai/?utm_source=sista_docs&utm_medium=docs
 **No Intent Definitions. No Code Changes. No Setup Headaches.** _Just add our magic button `<AiAssistantButton />` and start talking with your website / app._
 
 
-## What You Get After Installation?
-
-- **Conversational Intelligence**
-  Ask questions, get summaries, and interact with on-screen content through natural language.
-- **Voice UI Control**
-  Automatically control buttons, links, forms, and other elements, no setup or configuration needed.
-- **Custom Function Support**
-  Extend your agent's capabilities by registering your own functions for advanced use cases.
-- **Context-Aware Agent**
-  Understands on-screen content to deliver accurate replies and take smart actions.
-- **Custom Knowledge Base**
-  Upload your unique data so the agent can answer questions with high precision.
-- **Tool Integrations**
-  Connect with external tools and platforms to automate workflows and extend your agent's capabilities.
-- **Workflow Automation**
-  The agent can perform sequences of actions and automate multi-step tasks form a single input.
-
 ## Features at a Glance
 
 - **Zero-Code Changes:** Fits any code
@@ -60,6 +43,31 @@ Try it [here](https://smart.sista.ai/?utm_source=github_repo&utm_medium=demo_but
  </a>
 </p>
 
+
+
+
+
+
+
+## What You Get After Installation?
+
+- **Conversational Intelligence**
+  Ask questions, get summaries, and interact with on-screen content through natural language.
+- **Voice UI Control**
+  Automatically control buttons, links, forms, and other elements, no setup or configuration needed.
+- **Custom Function Support**
+  Extend your agent's capabilities by registering your own functions for advanced use cases.
+- **Context-Aware Agent**
+  Understands on-screen content to deliver accurate replies and take smart actions.
+- **Custom Knowledge Base**
+  Upload your unique data so the agent can answer questions with high precision.
+- **Tool Integrations**
+  Connect with external tools and platforms to automate workflows and extend your agent's capabilities.
+- **Workflow Automation**
+  The agent can perform sequences of actions and automate multi-step tasks form a single input.
+
+
+
 ## Powerful Admin Panel
 
 _(Integrating AI into your applications is now simpler than ever.)_
@@ -85,9 +93,9 @@ This package supports all types of React-based projects, including:
 
 |                                                                                                      |                                                                                                           |                                                                                                      |                                                                                                     |                                                                                                      |
 | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-|   [<img src="https://smart.sista.ai/images/integrations/sdks/REACT.svg" width="100px">](https://github.com/facebook/react)   |   [<img src="https://smart.sista.ai/images/integrations/sdks/NEXT.svg" width="100px">](https://github.com/vercel/next.js)   |   [<img src="https://smart.sista.ai/images/integrations/sdks/ELECTRON.svg" width="100px">](https://github.com/electron/electron)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/GATSBY.svg" width="100px">](https://github.com/gatsbyjs/gatsby)  | [<img src="https://smart.sista.ai/images/integrations/sdks/METEOR.svg" width="100px">](https://github.com/meteor/meteor) |
-|  [<img src="https://smart.sista.ai/images/integrations/sdks/REMIX.svg" width="100px">](https://github.com/remix-run/remix) |  [<img src="https://smart.sista.ai/images/integrations/sdks/REDWOODJS.svg" width="100px">](https://github.com/redwoodjs/redwood) |   [<img src="https://smart.sista.ai/images/integrations/sdks/EXPO.svg" width="100px">](https://github.com/expo/expo)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/BLITZJS.svg" width="100px">](https://github.com/blitz-js/blitz)  | [<img src="https://smart.sista.ai/images/integrations/sdks/REACT-NATIVE.svg" width="100px">](https://github.com/facebook/react-native) |
-|  [<img src="https://smart.sista.ai/images/integrations/sdks/DOCUSAURUS.svg" width="100px">](https://github.com/facebook/docusaurus) |  [<img src="https://smart.sista.ai/images/integrations/sdks/REFINE.svg" width="100px">](https://github.com/refinedev/refine) |   [<img src="https://smart.sista.ai/images/integrations/sdks/PLASMIC.svg" width="100px">](https://github.com/plasmicapp/plasmic)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/PAYLOADCMS.svg" width="100px">](https://github.com/payloadcms/payload)  | [<img src="https://smart.sista.ai/images/integrations/sdks/BUILDERIO.svg" width="100px">](https://github.com/BuilderIO/builder) |
+|   [<img src="https://smart.sista.ai/images/integrations/sdks/REACT.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=react)   |   [<img src="https://smart.sista.ai/images/integrations/sdks/NEXT.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=nextjs)   |   [<img src="https://smart.sista.ai/images/integrations/sdks/ELECTRON.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=electron)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/GATSBY.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=gatsby)  | [<img src="https://smart.sista.ai/images/integrations/sdks/METEOR.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=meteor) |
+|  [<img src="https://smart.sista.ai/images/integrations/sdks/REMIX.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=remix) |  [<img src="https://smart.sista.ai/images/integrations/sdks/REDWOODJS.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=redwoodjs) |   [<img src="https://smart.sista.ai/images/integrations/sdks/EXPO.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=expo)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/BLITZJS.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=blitzjs)  | [<img src="https://smart.sista.ai/images/integrations/sdks/REACT-NATIVE.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=react-native) |
+|  [<img src="https://smart.sista.ai/images/integrations/sdks/DOCUSAURUS.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=docusaurus) |  [<img src="https://smart.sista.ai/images/integrations/sdks/REFINE.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=refine) |   [<img src="https://smart.sista.ai/images/integrations/sdks/PLASMIC.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=plasmic)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/PAYLOADCMS.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=payload-cms)  | [<img src="https://smart.sista.ai/images/integrations/sdks/BUILDERIO.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=builder-io) |
 
 ## Other Supported Platforms
 
@@ -95,14 +103,14 @@ Our AI technology is supported across all platforms, delivering a unified experi
 
 |                                                                                                      |                                                                                                           |                                                                                                      |                                                                                                     |                                                                                                      |                                                                                                      |                                                                                                      |
 | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-|   [<img src="https://smart.sista.ai/images/integrations/sdks/VUE.svg" width="100px">](https://github.com/vuejs/vue)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/IOS.svg" width="100px">](https://developer.apple.com/ios/)  | [<img src="https://smart.sista.ai/images/integrations/sdks/ANDROID.svg" width="100px">](https://github.com/android)   | [<img src="https://smart.sista.ai/images/integrations/sdks/DART.svg" width="100px">](https://github.com/dart-lang/sdk)     |   [<img src="https://smart.sista.ai/images/integrations/sdks/JS.svg" width="100px">](https://github.com/tc39)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/EMBER.svg" width="100px">](https://github.com/emberjs/ember.js)   | [<img src="https://smart.sista.ai/images/integrations/sdks/SVELTE.svg" width="100px">](https://github.com/sveltejs/svelte) |
-| [<img src="https://smart.sista.ai/images/integrations/sdks/IONIC.svg" width="100px">](https://github.com/ionic-team/ionic-framework) |   [<img src="https://smart.sista.ai/images/integrations/sdks/CORDOVA.svg" width="100px">](https://github.com/apache/cordova)   | [<img src="https://smart.sista.ai/images/integrations/sdks/FLUTTER.svg" width="100px">](https://github.com/flutter/flutter) | [<img src="https://smart.sista.ai/images/integrations/sdks/MAUI.svg" width="100px">](https://github.com/dotnet/maui) |  [<img src="https://smart.sista.ai/images/integrations/sdks/XAMARIN.svg" width="100px">](https://github.com/xamarin) | [<img src="https://smart.sista.ai/images/integrations/sdks/ANGULAR.svg" width="100px">](https://github.com/angular/angular)  |   [<img src="https://smart.sista.ai/images/integrations/sdks/ASTRO.svg" width="100px">](https://github.com/withastro/astro)  |
-| [<img src="https://smart.sista.ai/images/integrations/platforms/SHOPIFY.svg" width="100px">](https://www.shopify.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WORDPRESS.svg" width="100px">](https://wordpress.org/) | [<img src="https://smart.sista.ai/images/integrations/platforms/DRUPAL.svg" width="100px">](https://www.drupal.org/) | [<img src="https://smart.sista.ai/images/integrations/platforms/MAGENTO.svg" width="100px">](https://magento.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WOOCOMMERCE.svg" width="100px">](https://woocommerce.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WIX.svg" width="100px">](https://www.wix.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WEELBY.svg" width="100px">](https://www.weebly.com/) |
-| [<img src="https://smart.sista.ai/images/integrations/platforms/JOOMLA.svg" width="100px">](https://www.joomla.org/) | [<img src="https://smart.sista.ai/images/integrations/platforms/WEBFLOW.svg" width="100px">](https://webflow.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/SQUARESPACE.svg" width="100px">](https://www.squarespace.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/ETSY.svg" width="100px">](https://www.etsy.com/) | [<img src="https://smart.sista.ai/images/integrations/platforms/MOODLE.svg" width="100px">](https://moodle.org/) | [<img src="https://smart.sista.ai/images/integrations/sdks/UNITY.svg" width="100px">](https://unity.com/) | [<img src="https://smart.sista.ai/images/integrations/sdks/UNREAL-ENGINE.svg" width="100px">](https://www.unrealengine.com/) |
+|   [<img src="https://smart.sista.ai/images/integrations/sdks/VUE.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=vue)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/IOS.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=ios)  | [<img src="https://smart.sista.ai/images/integrations/sdks/ANDROID.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=android)   | [<img src="https://smart.sista.ai/images/integrations/sdks/DART.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=dart)     |   [<img src="https://smart.sista.ai/images/integrations/sdks/JS.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=javascript)    |  [<img src="https://smart.sista.ai/images/integrations/sdks/EMBER.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=ember)   | [<img src="https://smart.sista.ai/images/integrations/sdks/SVELTE.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=svelte) |
+| [<img src="https://smart.sista.ai/images/integrations/sdks/IONIC.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=ionic) |   [<img src="https://smart.sista.ai/images/integrations/sdks/CORDOVA.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=cordova)   | [<img src="https://smart.sista.ai/images/integrations/sdks/FLUTTER.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=flutter) | [<img src="https://smart.sista.ai/images/integrations/sdks/MAUI.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=maui) |  [<img src="https://smart.sista.ai/images/integrations/sdks/XAMARIN.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=xamarin) | [<img src="https://smart.sista.ai/images/integrations/sdks/ANGULAR.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=angular)  |   [<img src="https://smart.sista.ai/images/integrations/sdks/ASTRO.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=astro)  |
+| [<img src="https://smart.sista.ai/images/integrations/platforms/SHOPIFY.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=shopify) | [<img src="https://smart.sista.ai/images/integrations/platforms/WORDPRESS.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=wordpress) | [<img src="https://smart.sista.ai/images/integrations/platforms/DRUPAL.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=drupal) | [<img src="https://smart.sista.ai/images/integrations/platforms/MAGENTO.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=magento) | [<img src="https://smart.sista.ai/images/integrations/platforms/WOOCOMMERCE.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=woocommerce) | [<img src="https://smart.sista.ai/images/integrations/platforms/WIX.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=wix) | [<img src="https://smart.sista.ai/images/integrations/platforms/WEELBY.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=weebly) |
+| [<img src="https://smart.sista.ai/images/integrations/platforms/JOOMLA.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=joomla) | [<img src="https://smart.sista.ai/images/integrations/platforms/WEBFLOW.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=webflow) | [<img src="https://smart.sista.ai/images/integrations/platforms/SQUARESPACE.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=squarespace) | [<img src="https://smart.sista.ai/images/integrations/platforms/ETSY.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=etsy) | [<img src="https://smart.sista.ai/images/integrations/platforms/MOODLE.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=moodle) | [<img src="https://smart.sista.ai/images/integrations/sdks/UNITY.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=unity) | [<img src="https://smart.sista.ai/images/integrations/sdks/UNREAL-ENGINE.svg" width="100px">](https://docs.sista.ai/learn/install_sdk?platform=unreal-engine) |
 
 ## Universal Website Support
 
-Sista AI works on **any website** regardless of platform or technology. Simply inject our JavaScript tag as an HTML script, and it automatically provides AI assistance on your site. Available via CDN: `https://cdn.sista.ai/sdk/latest/smart-agent.min.js`. Visit the official [Docs](https://docs.sista.ai/intro) for integration details.
+Sista AI works on **any website** regardless of platform or technology. Simply inject our JavaScript tag as an HTML script, and it automatically provides AI assistance on your site. Available via CDN: `https://cdn.sista.ai/sdk/latest/smart-agent.min.js`. Visit the official [Docs](https://docs.sista.ai/learn/install_sdk?platform=javascript) for integration details.
 
 ## Support
 
