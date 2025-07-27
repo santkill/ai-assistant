@@ -106,24 +106,35 @@ Sista AI works on **any website** regardless of platform or technology. Simply i
 
 ## Support
 
-For support or to report issues, you can email us directly at [support@sista.ai](mailto:support@sista.ai).
+Need help with Sista AI? We're here to assist you!
 
-You can also connect with our support team in our [Discord community](https://www.sista.ai/support.html).
-
-## Contact
-
-For general inquiries, please email [contact@sista.ai](mailto:contact@sista.ai).
-
-
-<br/>
-<br/>
-
+- **📧 Email Support:** [support@sista.ai](mailto:support@sista.ai)
+- **💬 Support Team:** Visit our [Support Page](https://www.sista.ai/support.html)
+- **📚 Documentation:** Visit our [comprehensive docs](https://docs.sista.ai)
+- **💬 Join Our Discord Community:**
 <p align="center">
- <a href="https://www.sista.ai/support.html">
+ <a href="https://www.sista.ai/support.html?to=discord">
     <img src="./assets/button_community.png" alt="Sista AI Community"/>
  </a>
 </p>
 
+
+<br/>
+<br/>
+
+
 <br/>
 
 [![Sista AI Banner](https://smart.sista.ai/images/art/sista-ai-banner-1.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_banner&utm_campaign=react_sdk_readme)
+
+
+<br/>
+
+
+## Contact
+
+Have questions about Sista AI or want to learn more?
+
+- **📧 General Inquiries:** [contact@sista.ai](mailto:contact@sista.ai)
+- **🌐 Website:** Visit [sista.ai](https://www.sista.ai) for more information
+- **💼 Business:** For partnerships visit our [Contact Page](https://www.sista.ai/contact.html)
